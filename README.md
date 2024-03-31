@@ -15,8 +15,9 @@ Bienvenido al proyecto de Control de Gastos, una aplicación para gestionar tus 
 - **Typescript:** Lenguaje de programación para desarrollo más seguro y escalable.
 - **React:** Biblioteca de JavaScript para construir interfaces de usuario interactivas.
 - **Vite:** Herramienta de construcción rápida para proyectos modernos en JavaScript.
-- **CSS Modules:** Estilos modulares para una mejor organización y mantenimiento.
-- **Chart.js:** Librería para gráficos interactivos y visualizaciones de datos.
+- **TailwindCSS:** Estilos modernos implementando TailwindCSS.
+- **React Circular ProgressBar:** Librería para gráficos circulares.
+- **React Swipeable List:** Librería para implementar acciones deslizables.
 
 ## Uso
 
