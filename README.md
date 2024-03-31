@@ -1,30 +1,26 @@
-# React + TypeScript + Vite
+# Control de Gastos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido al proyecto de Control de Gastos, una aplicación para gestionar tus finanzas personales de manera eficiente y sencilla.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Registro de Transacciones:** Registra tus ingresos y gastos de forma rápida y organizada.
+- **Visualización Gráfica:** Analiza tus datos financieros con gráficos intuitivos y fáciles de entender.
+- **Resumen de Finanzas:** Obtén un resumen claro de tus ingresos, gastos y saldo disponible.
+- **Gestión de Cuentas:** Soporte para múltiples cuentas de usuario para un control más detallado.
+- **Interfaz Intuitiva:** Diseño limpio y amigable para una experiencia de usuario agradable.
 
-## Expanding the ESLint configuration
+## Tecnologías Utilizadas
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **Typescript:** Lenguaje de programación para desarrollo más seguro y escalable.
+- **React:** Biblioteca de JavaScript para construir interfaces de usuario interactivas.
+- **Vite:** Herramienta de construcción rápida para proyectos modernos en JavaScript.
+- **CSS Modules:** Estilos modulares para una mejor organización y mantenimiento.
+- **Chart.js:** Librería para gráficos interactivos y visualizaciones de datos.
 
-- Configure the top-level `parserOptions` property like this:
+## Uso
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+1. Clona este repositorio a tu máquina local:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+   ```bash
+   git clone https://github.com/tu-usuario/control-gastos.git
