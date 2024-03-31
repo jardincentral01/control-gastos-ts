@@ -24,4 +24,4 @@ Bienvenido al proyecto de Control de Gastos, una aplicación para gestionar tus 
 1. Clona este repositorio a tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/control-gastos.git
+   git clone https://github.com/jardincentral01/control-gastos.git
